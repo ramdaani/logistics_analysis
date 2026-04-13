@@ -1,6 +1,6 @@
 # 📦 Logistics Diagnostic: E-Commerce SLA Performance & Peak Season Analysis
 
-![Dashboard Utama](dashboard.png)
+![Dashboard Utama](/assets/dashboard.png)
 
 ## 📌 Project Overview
 Proyek ini bertujuan untuk mendiagnosa performa logistik dan ketepatan waktu pengiriman (**SLA - Service Level Agreement**) pada platform e-commerce Olist. Fokus utama analisis ini adalah memahami bagaimana lonjakan pesanan pada periode **Peak Season** (Simulasi Ramadhan/Lebaran) mempengaruhi keterlambatan paket dan kepuasan pelanggan.
@@ -20,9 +20,9 @@ Perusahaan ekspedisi (seperti J&T, SPX, atau Sicepat) sering menghadapi tantanga
 
 ## 📊 Key Features & Analysis
 
-![tren](volume_pesanan_bulanan.png)
-![peak season](dampak_peak_season.png)
-![keterlambatan vs rating](keterlambatan_vs_rating.png)
+![Tren Volume Pesanan Bulanan](/assets/volume_pesanan_bulanan.png)
+![Analisis Peak Season](/assets/dampak_peak_season.png)
+![Keterlambatan vs Rating](/assets/keterlambatan_vs_rating.png)
 
 * **Peak Season Simulation:** Menganalisis data bulan November (Black Friday) sebagai analogi lonjakan transaksi Ramadhan/Lebaran di Indonesia.
 * **Delivery Gap Analysis:** Menghitung selisih hari antara kedatangan aktual vs estimasi (*SLA Breach*).
